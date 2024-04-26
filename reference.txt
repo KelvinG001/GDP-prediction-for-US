@@ -1,0 +1,13 @@
+Y, c, I, G, IM, EX - BEA 
+https://apps.bea.gov/iTable/?reqid=19&step=2&isuri=1&1921=survey&_gl=1*ld7kbc*_ga*NjIxMjM0NzQxLjE3MTMyNzQ1MjM.*_ga_J4698JNNFT*MTcxMzI3NjkzMi4yLjEuMTcxMzI3Njk1Ni4zNi4wLjA.
+
+inflation, unemploy, LTGBY - FED 
+https://fred.stlouisfed.org/
+
+POP44, POP64 - USAFACTS, UNITED STATES CENSUS
+https://usafacts.org/data/topics/people-society/population-and-demographics/population-data/population/
+https://www.census.gov/data/tables/time-series/demo/popest/2020s-national-detail.html
+
+TEMP
+NATIONAL WEATHER SERVICE
+https://www.weather.gov/media/slc/ClimateBook/Annual%20Average%20Temperature%20By%20Year.pdf
