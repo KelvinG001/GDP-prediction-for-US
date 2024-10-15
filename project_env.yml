@@ -1,4 +1,4 @@
-name: econ1500_pj
+name: pj
 channels:
   - conda-forge
   - defaults
